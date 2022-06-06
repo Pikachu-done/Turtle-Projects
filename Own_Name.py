@@ -1,0 +1,10 @@
+import turtle
+# t = turtle.Turtle()
+turtle.color('orange')
+turtle.bgcolor('red')
+# turtle.speed(0)
+turtle.penup()
+turtle.goto(-520,-110)
+turtle.pendown()
+turtle.write('Tanish',font = ('Algerian',260,'bold'))
+turtle.done()
